@@ -1,7 +1,7 @@
 # Batteryarchive
 The repository contains scripts to interact with www.batteryarchive.org.
 
-Battery Archive (BA) is a repository for easy visualization, analysis, and comparison of battery data across institutions. It is based on an instance of redash (https://github.com/getredash/redash).
+Battery Archive (BA) is a repository for easy visualization, analysis, and comparison of battery data across institutions. It is based on the Battery Lifecycle Framework (BLC) that is available as an open source project on Github https://github.com/battery-lcf/batteryarchive.
 
 The file metadata.csv contains cell_ids and metadata for the cells in the archive.
 
