@@ -7,7 +7,7 @@ The file metadata.csv contains cell_ids and metadata for the cells in the archiv
 
 The script datatransfer.py can be used to download data from battery archive. To run the script:
 
-python3 datatransfer.py
+`python3 data_transfer.py`
 
 The script will attempt to download two types of files.
 
