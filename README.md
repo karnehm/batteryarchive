@@ -27,7 +27,7 @@ We launched Battery Archive to provide battery data and metadata in a standard f
 
 More details about the list of studies can be found online:
 
-https://batteryarchive.org/study_summaries.html
+[http://www.batteryarchive.org/study_summaries.html](http://www.batteryarchive.org/study_summaries.html)
 
 
 
